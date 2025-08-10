@@ -1,0 +1,23 @@
+维护者：社区
+版本号：1.0.0
+更新时间：2025-08-10
+
+词条
+
+// 角色
+Chief：局长
+Chelsea：切尔西
+Countess：伯爵
+Graves：格芮芙
+Adela：阿黛拉
+Shalom：瑟琳
+
+特殊词条
+
+// 概念
+sinner：禁闭者
+shackle：枷锁
+mad shear：剪疯子
+DisCoin：狄斯币
+hypercube：异方晶
+Paradeiso：上庭
