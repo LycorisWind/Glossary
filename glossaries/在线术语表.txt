@@ -1,0 +1,7 @@
+### BanG Dream
+* 链接：`https://raw.githubusercontent.com/V-Lipset/ao3-chinese/main/glossaries/BanG%20Dream.txt`
+* 维护者：Lipset
+
+### Path to Nowhere
+* 链接：`https://raw.githubusercontent.com/V-Lipset/ao3-chinese/main/glossaries/Path%20To%20Nowhere.txt`
+* 维护者：Lipset

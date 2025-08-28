@@ -1,5 +1,5 @@
-维护者：Glossary_Princess_Principal
-版本号：1.0.2
+维护者：社区
+版本号：1.0.1
 更新时间：2025-08-05
 
 词条
@@ -9,3 +9,4 @@ Ange：安洁
 Charlotte：夏洛特
 Dorothy：多萝西
 Beatrice：贝翠丝
+Chise：千世
