@@ -1,0 +1,17 @@
+版本号：2.0.1
+维护者：Regex Tester
+更新时间：2025-09-19
+
+词条
+Minerva McGonagall:米勒娃 麦格
+points:点数
+
+禁翻词条
+Dumbledore
+
+正则表达式
+// 规则1：匹配加分句式
+(\d+)\s+points\s+to\s+Gryffindor:为格兰芬多加了 $1 分
+
+// 规则2：匹配施咒句式 (修正版)
+The spell Expecto Patronum is cast by (Harry Potter):$1 施放了守护神咒
